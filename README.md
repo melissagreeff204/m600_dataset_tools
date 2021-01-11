@@ -1,4 +1,4 @@
-# m600_dataset_tools
+# M600 Flight Dataset Tools
 
 These are useful tools to visualize data in the M600 flight dataset, see ## for more details. 
 
